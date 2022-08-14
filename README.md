@@ -1,4 +1,3 @@
-# elmermeister
 ![my logo](https://github.com/phchen-elmer/elmermeister/blob/main/images/PHC_background.jpg)
 
 Hi, I'm Elmer	:sunglasses:, a graduate student that previously focused on :monocle_face: medical domain of Natural Language Processing using ML&DL techniques.  
