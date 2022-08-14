@@ -4,11 +4,11 @@ Hi, I'm Elmer	:sunglasses:, a graduate student that previously focused on :monoc
 Now seeking for Machine Learning Engineer & Data Scientist position :+1::+1::+1:.
 
 ### Awards :trophy::
-- Won the **3rd** /22 of the **NAACL-BioNLP MEDIQA** Question Summarization task :3rd_place_medal:
+- Won the **3rd** /22 of the **NAACL-BioNLP 2021 MEDIQA** Question Summarization task :3rd_place_medal:
 - Won the **5th** /368 of the **AICUP 2021** Medical Spring Competition
 - Won the **20th** /531 of the **AICUP 2020** Medical Fall Competiton
-- Won the **5th** /16 of the **COLING-SMM4H** Medication Tweets Classification task
-- Won the **11th** /43 of the **ACL-BioNLP MEDIQA** Medical Text Inference task
+- Won the **5th** /16 of the **COLING SMM4H 2020** Medication Tweets Classification task
+- Won the **11th** /43 of the **ACL-BioNLP 2019 MEDIQA** Medical Text Inference task
 
 ### Publications :memo::
 - **NAACL-BioNLP 2021**
