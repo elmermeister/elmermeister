@@ -1,7 +1,4 @@
-![my logo](https://github.com/phchen-elmer/elmermeister/blob/main/images/PHC_background.jpg)
-
-Hi, I'm Elmer	:sunglasses:, a graduate student that previously focused on :monocle_face: medical domain of Natural Language Processing using ML&DL techniques.  
-Now seeking for Machine Learning Engineer & Data Scientist position :+1::+1::+1:.
+Hi, I'm Elmer	:sunglasses:
 
 ### Awards :trophy::
 - Won the **3rd** /22 of the **NAACL-BioNLP 2021 MEDIQA** Question Summarization task :3rd_place_medal:
