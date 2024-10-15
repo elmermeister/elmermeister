@@ -1,4 +1,4 @@
-Hi, I'm Elmer	:sunglasses:
+Hi, I'm Elmer
 
 ### Awards :trophy::
 - Won the **3rd** /22 of the **NAACL-BioNLP 2021 MEDIQA** Question Summarization task :3rd_place_medal:
